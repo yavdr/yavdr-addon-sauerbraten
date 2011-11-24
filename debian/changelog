@@ -1,3 +1,9 @@
+yavdr-remote (0-0yavdr0) oneiric; urgency=medium
+
+  * adopted for yaVDR
+
+ -- Gerald Dachs <gda@dachsweb.de> Fri, 25 Nov 2011 00:01:00 +0100
+
 yavdr-addon-sauerbraten (0.4.0) UNRELEASED; urgency=low
 
   * Initial release. (Closes: #XXXXXX)
